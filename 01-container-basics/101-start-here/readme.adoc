@@ -93,4 +93,3 @@ All shell commands _(starting with "$")_ throughout the rest of the workshop sho
 Next Steps 
 
 = AWS Container Immersion Day: Lab 1
-[Click here to get started with the Docker and ECR Lab](https://github.com/glorekg/aws-workshop-for-kubernetes/blob/master/Getting%20Started%20with%20Docker%20and%20ECR%20Lab.pdf)
